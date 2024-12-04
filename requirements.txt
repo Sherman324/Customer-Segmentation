@@ -1,0 +1,8 @@
+#pip install -r .\requirements.txt
+fastapi
+scikit-learn
+pydantic
+uvicorn
+pandas 
+numpy
+joblib
